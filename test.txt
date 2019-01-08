@@ -1,2 +1,3 @@
 this is a github case!
 add newline,that's false
+add newline,that's true
